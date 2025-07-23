@@ -8,4 +8,4 @@ var closenav = document.getElementById("close-nav")
 
 closenav.addEventListener("click",function closebutton(){
     sidenav.style.right="-50%";
-})
+})  
